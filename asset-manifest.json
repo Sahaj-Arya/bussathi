@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b315462.css",
+    "main.js": "/static/js/main.6c297ab7.js",
+    "static/js/787.2e798d92.chunk.js": "/static/js/787.2e798d92.chunk.js",
+    "static/media/bus.gif": "/static/media/bus.67ea6cf8db2acfd9e6fe.gif",
+    "static/media/downloadBg.jpg": "/static/media/downloadBg.40d8681a125e2f946732.jpg",
+    "static/media/EmergencyStop.png": "/static/media/EmergencyStop.40572b6a45eead55f94e.png",
+    "static/media/safetyAlarm.png": "/static/media/safetyAlarm.3c8a37439fa5cbe4f237.png",
+    "static/media/scanner.svg": "/static/media/scanner.ddf74955027fc2e9ed07090d19a6ef00.svg",
+    "static/media/HomeBannerImg.png": "/static/media/HomeBannerImg.9852d0863dbdeede888e.png",
+    "static/media/logo.png": "/static/media/logo.d5a82b2fd5096a952db0.png",
+    "static/media/whatElse.png": "/static/media/whatElse.6746d4e2bd571ecd52d9.png",
+    "static/media/white_logo.png": "/static/media/white_logo.7e6f7c98145af085d8f1.png",
+    "static/media/busTrack.png": "/static/media/busTrack.18d9081e05fe7f2f9cf8.png",
+    "static/media/playStore.svg": "/static/media/playStore.4b735d7a09239f922384bde040a40149.svg",
+    "static/media/appStore.svg": "/static/media/appStore.fd97559159e3cc4996045700a16ed204.svg",
+    "index.html": "/index.html",
+    "main.0b315462.css.map": "/static/css/main.0b315462.css.map",
+    "main.6c297ab7.js.map": "/static/js/main.6c297ab7.js.map",
+    "787.2e798d92.chunk.js.map": "/static/js/787.2e798d92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b315462.css",
+    "static/js/main.6c297ab7.js"
+  ]
+}
