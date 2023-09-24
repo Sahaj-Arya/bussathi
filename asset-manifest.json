@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bussathi/static/css/main.3a1f0152.css",
-    "main.js": "/bussathi/static/js/main.c458b81d.js",
+    "main.js": "/bussathi/static/js/main.84b1b51e.js",
     "static/js/787.2e798d92.chunk.js": "/bussathi/static/js/787.2e798d92.chunk.js",
     "static/media/bus.gif": "/bussathi/static/media/bus.67ea6cf8db2acfd9e6fe.gif",
     "static/media/downloadBg.jpg": "/bussathi/static/media/downloadBg.40d8681a125e2f946732.jpg",
@@ -17,11 +17,11 @@
     "static/media/appStore.svg": "/bussathi/static/media/appStore.fd97559159e3cc4996045700a16ed204.svg",
     "index.html": "/bussathi/index.html",
     "main.3a1f0152.css.map": "/bussathi/static/css/main.3a1f0152.css.map",
-    "main.c458b81d.js.map": "/bussathi/static/js/main.c458b81d.js.map",
+    "main.84b1b51e.js.map": "/bussathi/static/js/main.84b1b51e.js.map",
     "787.2e798d92.chunk.js.map": "/bussathi/static/js/787.2e798d92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a1f0152.css",
-    "static/js/main.c458b81d.js"
+    "static/js/main.84b1b51e.js"
   ]
 }
