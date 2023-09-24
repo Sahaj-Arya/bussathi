@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes, HashRouter } from "react-router-dom";
 import "./assets/scss/main.scss";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js";
 import Header from "./components/Header";
@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       {/* <Header /> */}
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" exact element={<Index />} />
           <Route path="/Login" exact element={<Login />} />
@@ -32,7 +32,7 @@ function App() {
           <Route path="/SafetyAlarm" exact element={<SafetyAlarm />} />
           <Route path="/EmergencyStop" exact element={<EmergencyStop />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
       {/* <Footer /> */}
     </>
   );
